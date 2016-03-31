@@ -27,9 +27,9 @@ cc=function(){Kb&&(_.ta.clearTimeout(Kb),Kb=0);Kb=_.ta.setTimeout(function(){var
 _.Mb=function(){function a(a,c){if(!(a<f)&&g)if(2===a&&g.warn)g.warn(c);else if(3===a&&g.error)try{g.error(c)}catch(n){}else g.log&&g.log(c)}var c=function(c){a(1,c)};_.Lb=function(c){a(2,c)};_.sa=function(c){a(3,c)};_.Fc=function(){};c.INFO=1;c.WARNING=2;c.NONE=4;var f=1,g=window.console?window.console:window.opera?window.opera.postError:void 0;return c}();
 
 _.R=_.R||{};
-_.R=_.R||{};(function(){var a=[];_.R.du=function(c){a.push(c)};_.R.XX=function(){for(var c=0,f=a.length;c<f;++c)a[c]()}})();
-_.xd=function(a){for(var c=0;c<this.length;c++)if(this[c]===a)return c;return-1};_.Sc=function(a,c){var f=_.Ka(_.bb,"watt",_.r());_.Ka(f,a,c)};_.R=_.R||{};
-(function(){var a=null;_.R.dc=function(c){var f="undefined"===typeof c;if(null!==a&&f)return a;var g={};c=c||window.location.href;var h=c.indexOf("?"),l=c.indexOf("#");c=(-1===l?c.substr(h+1):[c.substr(h+1,l-h-1),"&",c.substr(l+1)].join("")).split("&");for(var h=window.decodeURIComponent?window.decodeURIComponent:window.unescape,l=0,n=c.length;l<n;++l){var q=c[l].indexOf("=");if(-1!==q){var t=c[l].substring(0,q),q=c[l].substring(q+1),q=q.replace(/\+/g," ");try{g[t]=h(q)}catch(v){}}}f&&(a=g);return g}; _.R.dc()})();
+var Ie;_.R=_.R||{};Ie=[];_.R.du=function(a){Ie.push(a)};_.R.XX=function(){for(var a=0,c=Ie.length;a<c;++a)Ie[a]()};
+var Je;_.xd=function(a){for(var c=0;c<this.length;c++)if(this[c]===a)return c;return-1};_.Sc=function(a,c){var f=_.Ka(_.bb,"watt",_.r());_.Ka(f,a,c)};_.R=_.R||{};Je=null;
+_.R.dc=function(a){var c="undefined"===typeof a;if(null!==Je&&c)return Je;var f={};a=a||window.location.href;var g=a.indexOf("?"),h=a.indexOf("#");a=(-1===h?a.substr(g+1):[a.substr(g+1,h-g-1),"&",a.substr(h+1)].join("")).split("&");for(var g=window.decodeURIComponent?window.decodeURIComponent:window.unescape,h=0,l=a.length;h<l;++h){var n=a[h].indexOf("=");if(-1!==n){var q=a[h].substring(0,n),n=a[h].substring(n+1),n=n.replace(/\+/g," ");try{f[q]=g(n)}catch(t){}}}c&&(Je=f);return f};_.R.dc();
 _.e("gadgets.util.getUrlParameters",_.R.dc);
 _.Kd=window.console;_.kd=function(a){_.Kd&&_.Kd.log&&_.Kd.log(a)};_.ke=function(){};
 _.Pb=function(){var a=window.gadgets&&window.gadgets.config&&window.gadgets.config.get;a&&_.Fa(a());return{register:function(a,f,g){g&&g(_.P())},get:function(a){return _.P(a)},update:function(a,f){if(f)throw"Config replacement is not supported";_.Fa(a)},kc:function(){}}}();
