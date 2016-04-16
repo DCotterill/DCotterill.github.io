@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 # This is my now page
@@ -15,3 +16,7 @@ I want to do this first before I embark on anything new and significant, so I ca
 * Testing....
 
 * Testing 2...
+
+* testing 3
+
+
