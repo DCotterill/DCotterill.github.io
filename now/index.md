@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 # This is my now page
@@ -12,4 +13,4 @@ I want to do this first before I embark on anything new and significant, so I ca
 
 * Training for 2 Ultra Marathons in April and May: Mt Solitary and UTA100 (was North Face 100).
 
-*
+* Testing....
