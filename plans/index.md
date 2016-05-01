@@ -1,12 +1,13 @@
 ---
 layout: default
+published: true
 ---
 
 # Things I want to do
 
-Here's my main to-do list. It's not where I keep the 'pay a bill' type things, but major stuff like learning new skills, starting new projects, etc.
+Here's my main to-do list. It's not for daily 'pay a bill' type Todos, but major stuff like learning new skills, and starting new projects.
 
-I expect some of these to be interesting enough to spark some write ups or blog entries.
+It's my backlog of large stuff, which eventually I hope will make it onto my [now page.](/now)
 
 ## Technical
 
