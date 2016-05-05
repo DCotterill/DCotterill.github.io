@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-# This is my now page
+## This is my now page
 
 It's a place where I publicly declare what I'm doing in my spare time, that I can use to keep myself focused and hopefully finish more things.
 
