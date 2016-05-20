@@ -1,12 +1,13 @@
 ---
 layout: default
-title: My Frog
+title: Scratch 'blog'
 ---
 	<h2>{{ page.title }}</h2>
+	This isn't quite a blog, but a scratch area for me to not longer things down and keep related information up to date. Please don't expect it to be readable.
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-            {% if post.categories contains 'frog' %}
+            {% if post.categories contains 'scratch' %}
 	      <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	    {% endif %}
 	  {% endfor %}
