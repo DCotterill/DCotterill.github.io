@@ -14,7 +14,7 @@ It's my backlog of large stuff, which eventually I hope will make it onto my [no
 * Setup some home automation tech. I'd like to play with [OpenHAB](www.openhab.org) and some basic controlling devices
 * Setup my Raspberry Pi as a media server (it's been sitting in my drawer for a year)
 * Build a site for to graph my Strava metrics. e.g. Kms climbed per year burn up chart
-* Learn a new language properly. Possibly Elm, Elixir
+* Learn a new language properly. Possibly Elm, Elixir, http://www.phoenixframework.org/
 * Play around with my LeapMotion (also been in a drawer gathering dust) to see if I can use it for anything useful
 
 ### Family
