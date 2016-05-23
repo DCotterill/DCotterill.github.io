@@ -20,6 +20,7 @@ It's my backlog of large stuff, which eventually I hope will make it onto my [no
 ### Family
 
 * Do more code.org with my kids, and capture the experiences. Write up a page of kids resources for coding and tech stuff (I have links to heaps)
+* Setup something to progrees 'goals' for my kids. I want them to have objectives to grow in different areas, such as physical, technical, so I want to let them choose things to do that they enjoy with higher level goals in mind
 
 ### Community
 
