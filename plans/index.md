@@ -14,12 +14,13 @@ It's my backlog of large stuff, which eventually I hope will make it onto my [no
 * Setup some home automation tech. I'd like to play with [OpenHAB](www.openhab.org) and some basic controlling devices
 * Setup my Raspberry Pi as a media server (it's been sitting in my drawer for a year)
 * Build a site for to graph my Strava metrics. e.g. Kms climbed per year burn up chart
-* Learn a new language properly. Possibly Elm, Elixir
+* Learn a new language properly. Possibly Elm, Elixir, http://www.phoenixframework.org/
 * Play around with my LeapMotion (also been in a drawer gathering dust) to see if I can use it for anything useful
 
 ### Family
 
 * Do more code.org with my kids, and capture the experiences. Write up a page of kids resources for coding and tech stuff (I have links to heaps)
+* Setup something to progrees 'goals' for my kids. I want them to have objectives to grow in different areas, such as physical, technical, so I want to let them choose things to do that they enjoy with higher level goals in mind
 
 ### Community
 
