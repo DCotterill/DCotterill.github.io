@@ -5,9 +5,15 @@ published: true
 
 ## This is my now page
 
-It's a place where I publicly declare what I'm doing in my spare time, that I can use to keep myself focused and hopefully finish more things.
+To make the most of my career break, I want to spend as much spare time as possible focusing on new experiences that help me learn
+and have fun. I liked the idea (link) of publicly declaring this to keep myself honest
 
-* Setting up this site: My number 1 technical meta priority, before I do anything else, is getting this site setup properly
+* Setting up this site: A bit of a 'meta goal', but my number 1 technical priority, before I get carried away doing
+anything else, is getting this site setup properly. Overall, I want this to be a site where I can:
+** Host static content, that I can easily update
+** Keep track of the things I'm doing and learning
+** Blog and publish my experiences that I think are worthwhile
+**
 I want this to be a place I can blog, have personal wiki pages, host content and experiment.
 I want to do this first before I embark on anything new and significant, so I can blog about the stuff I'm doing.
 Once it's reasonable, I'll write up the tech I've used to get it working well.
