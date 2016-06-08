@@ -5,7 +5,7 @@ published: true
 
 ## Who am I?
 
-![Cotterill-Family-342.jpg]({{site.baseurl}}/about/Cotterill-Family-342.jpg)
+<img src="{{site.baseurl}}/about/Cotterill-Family-342.jpg" width="200" height="200" />
 
 I'm Darren Cotterill, born in Birmingham, England and now live in the Northern Beaches of Sydney, Australia.
 
