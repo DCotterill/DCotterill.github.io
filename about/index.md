@@ -5,9 +5,7 @@ published: true
 
 ## Who am I?
 
-<img src="{{site.baseurl}}/about/Cotterill-Family-342.jpg" height="500" />
-
-I'm Darren Cotterill, born in Birmingham, England and now live in the Northern Beaches of Sydney, Australia.
+<img src="{{site.baseurl}}/about/Cotterill-Family-342.jpg" height="500" align="left"/>I'm Darren Cotterill, born in Birmingham, England and now live in the Northern Beaches of Sydney, Australia.
 
 I went to Worcester Royal Grammar School, then moved to Manchester University to study a Computer Science degree
 and spent my student grant on beer and clubbing.
