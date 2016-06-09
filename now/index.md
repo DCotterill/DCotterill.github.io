@@ -17,10 +17,10 @@ All the things on this list are 'spare time' at the moment until I finish work i
     - Work on some ways of including dynamic content. I've done [this](/scratch/strava-elevation.html) already, but have some more ideas for content I want to include.
 
 - Site content. A few things in draft stage which need more time:
- - Personal content. 'About me, this page, plans, etc'
- - Blog post about how I set this site up, and which tech I used, in particular how I've published dynamic content from processes scheduled from Heroku
- - Blog post about quitting Optiver and what I plan to do in my career break
+    - Personal content. 'About me, this page, plans, etc'
+    - Blog post about how I set this site up, and which tech I used, in particular how I've published dynamic content from processes scheduled from Heroku
+    - Blog post about quitting Optiver and what I plan to do in my career break
 
 - I currently have these books on the go:
- - [Reinventing Organisations - Frederic Laloux](http://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501). I watched this [video](https://www.youtube.com/watch?v=gcS04BI2sbk) from Frederic a while back, loved it and want to find out more.
- - [Buddhism for Busy People - David Michie](http://www.amazon.com/Buddhism-Busy-People-Happiness-Uncertain/dp/1559392983). I'd like to spend more time meditating, and I have this lying around the house, so it might encourage me.
+    - [Reinventing Organisations - Frederic Laloux](http://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501). I watched this [video](https://www.youtube.com/watch?v=gcS04BI2sbk) from Frederic a while back, loved it and want to find out more.
+    - [Buddhism for Busy People - David Michie](http://www.amazon.com/Buddhism-Busy-People-Happiness-Uncertain/dp/1559392983). I'd like to spend more time meditating, and I have this lying around the house, so it might encourage me.
