@@ -11,10 +11,10 @@ and have fun. I liked the idea (link) of publicly declaring this to keep myself 
 All the things on this list are 'spare time' at the moment until I finish work in July, and after that take a 'do nothing' break for a month or so. After that, it will become my main list of significant projects.
 
 - Setting up this site: A bit of a 'meta goal', but my number 1 technical priority, before I get carried away doing anything else, is getting this site setup properly. A few overall goals:
- - Host static content, that I can easily update (mostly done)
- - Keep track of the things I'm doing and learning (possible, needs content)
- - Blog and publish my experiences that I think are worthwhile (possible, needs content)
- - Work on some ways of including dynamic content. I've done [this](/scratch/strava-elevation.html) already, but have some more ideas for content I want to include.
+	- Host static content, that I can easily update (mostly done)
+ 	- Keep track of the things I'm doing and learning (possible, needs content)
+ 	- Blog and publish my experiences that I think are worthwhile (possible, needs content)
+ 	- Work on some ways of including dynamic content. I've done [this](/scratch/strava-elevation.html) already, but have some more ideas for content I want to include.
 
 - Site content. A few things in draft stage which need more time:
  - Personal content. 'About me, this page, plans, etc'
