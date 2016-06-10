@@ -34,7 +34,6 @@ much as possible out of my time, which means at weekends I'm always trying to ge
 somewhere. If I'm not doing that, there's 1 million things I should be doing around the house, etc. I'm hoping this
  freedom will remove the guilt of the occasional 'nothing day'
  
- 
  <br/><br/><br/> 
 
 <img src="{{site.baseurl}}/img/to-do-list.jpg" width="100" align="left" style="PADDING-RIGHT: 15px;"/>
@@ -43,32 +42,39 @@ somewhere. If I'm not doing that, there's 1 million things I should be doing aro
 time there's a backlog of 'life tasks' that build up, such as house chores, commms with friends, exercise, etc. I want to
 pay down that debt, so when I have something truely inspiring I want to do, I'm not distracted by the million other things
 
+<br/><br/><br/> 
 <img src="{{site.baseurl}}/img/family-time.jpg" width="100" align="left" style="PADDING-RIGHT: 15px;"/>
 
 - Familiy time. I have a 7yo son and a 5yo daughter. I've had the benefits of fairly normal working ours, little work
 travel, etc. so I manage to spend time with my kids most days already, but I want to be calm dad, not stressed dad. Have
 some prep time in how to be energetic with them, not exhausted. Put some learning plans into action
 
+<br/><br/><br/> 
 <img src="{{site.baseurl}}/img/coding-beach.jpg" width="100" align="left" style="PADDING-RIGHT: 15px;"/>
 
 - Tech time. Ideas, technology
 
+<br/><br/><br/><br/><br/><br/>  
 <img src="{{site.baseurl}}/img/running.jpg" width="100" align="left" style="PADDING-RIGHT: 15px;"/>
 
 - Activities time.
 
+<br/><br/><br/><br/><br/><br/>  
 <img src="{{site.baseurl}}/img/mooc.jpg" width="100" align="left" style="PADDING-RIGHT: 15px;"/>
 
 - Learning time
 
+<br/><br/><br/><br/><br/><br/> 
 <img src="{{site.baseurl}}/img/blog.jpg" width="100" align="left" style="PADDING-RIGHT: 15px;"/>
 
 - Publishing time
 
+<br/><br/><br/><br/><br/><br/> 
 <img src="{{site.baseurl}}/img/manage-money.jpg" width="100" align="left" style="PADDING-RIGHT: 15px;"/>
 
 - Managing money time. Create freedom and passive income streams
 
+<br/><br/><br/><br/><br/><br/> 
 <img src="{{site.baseurl}}/img/cooking.jpg" width="100" align="left" style="PADDING-RIGHT: 15px;"/>
 
 - Cooking time
