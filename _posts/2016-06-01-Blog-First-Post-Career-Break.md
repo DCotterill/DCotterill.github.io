@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Time for a break.
-date: 2016-06-10T00:00:00.000Z
+date: {}
 categories: scratch
 published: true
 ---
@@ -33,6 +33,10 @@ Some goals:
 much as possible out of my time, which means at weekends I'm always trying to get the family to do something or go
 somewhere. If I'm not doing that, there's 1 million things I should be doing around the house, etc. I'm hoping this
  freedom will remove the guilt of the occasional 'nothing day'
+ 
+ 
+ 
+ 
 
 <img src="{{site.baseurl}}/img/to-do-list.jpg" width="100" align="left" style="PADDING-RIGHT: 15px;"/>
 
