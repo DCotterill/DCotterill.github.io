@@ -35,6 +35,7 @@ somewhere. If I'm not doing that, there's 1 million things I should be doing aro
 
 <img src="{{site.baseurl}}/_posts/to-do-list.jpg" width="200" align="left" style="PADDING-RIGHT: 15px;"/>
 
+![to-do-list.jpg]({{site.baseurl}}/_posts/to-do-list.jpg)
 
 - Reduce my life debt. I'm in inherently responsible person who worries about things not getting done. When you work full
 time there's a backlog of 'life tasks' that build up, such as house chores, commms with friends, exercise, etc. I want to
