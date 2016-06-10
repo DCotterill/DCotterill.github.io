@@ -27,7 +27,7 @@ necessarily mean I won't be doing any work, but I'll be aiming to follow MMM's a
 
 Some goals:
 
-<img src="{{site.baseurl}}/img/relax.jpg" width="100" align="left" style="PADDING-RIGHT: 15px;"/>
+<img src="{{site.baseurl}}/img/relax.jpg" width="100" align="left" style="PADDING-RIGHT: 15px;"/> 
 
 - Relax. I always crave breaks and days to really relax and slow down. I'm the type of person who tries to squeeze as
 much as possible out of my time, which means at weekends I'm always trying to get the family to do something or go
@@ -35,8 +35,7 @@ somewhere. If I'm not doing that, there's 1 million things I should be doing aro
  freedom will remove the guilt of the occasional 'nothing day'
  
  
- 
- 
+ <br/><br/><br/> 
 
 <img src="{{site.baseurl}}/img/to-do-list.jpg" width="100" align="left" style="PADDING-RIGHT: 15px;"/>
 
