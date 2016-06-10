@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Time for a break."
-date: 2016-06-10
+title: Time for a break.
+date: {}
 categories: scratch
+published: true
 ---
 
 After almost 20 years of full time work in the IT industry, I made the decision to quit my highly paid job with nothing
@@ -25,10 +26,15 @@ necessarily mean I won't be doing any work, but I'll be aiming to follow MMM's a
 (but I'll charge for it of course) <other link>
 
 Some goals:
+
+
 - Relax. I always crave breaks and days to really relax and slow down. I'm the type of person who tries to squeeze as
 much as possible out of my time, which means at weekends I'm always trying to get the family to do something or go
 somewhere. If I'm not doing that, there's 1 million things I should be doing around the house, etc. I'm hoping this
  freedom will remove the guilt of the occasional 'nothing day'
+
+<img src="{{site.baseurl}}/_posts/to-do-list.jpg" width="200" align="left" style="PADDING-RIGHT: 15px;"/>
+
 
 - Reduce my life debt. I'm in inherently responsible person who worries about things not getting done. When you work full
 time there's a backlog of 'life tasks' that build up, such as house chores, commms with friends, exercise, etc. I want to
@@ -46,7 +52,7 @@ some prep time in how to be energetic with them, not exhausted. Put some learnin
 
 - Publishing time
 
-- Managing money time
+- Managing money time. Create freedom and passive income streams
 
 - Cooking time
 
@@ -56,6 +62,8 @@ some prep time in how to be energetic with them, not exhausted. Put some learnin
 
 The second thing people say to me after I announce my plans is 'You'll get bored in a few months'. Looking at that list
  of plans, I think not.
+
+<mention of link to creativity - not sure of page>
 
 why leaving
 
