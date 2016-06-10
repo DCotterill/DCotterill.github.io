@@ -33,9 +33,7 @@ much as possible out of my time, which means at weekends I'm always trying to ge
 somewhere. If I'm not doing that, there's 1 million things I should be doing around the house, etc. I'm hoping this
  freedom will remove the guilt of the occasional 'nothing day'
 
-<img src="{{site.baseurl}}/_posts/to-do-list.jpg" width="200" align="left" style="PADDING-RIGHT: 15px;"/>
-
-![to-do-list.jpg]({{site.baseurl}}/_posts/to-do-list.jpg)
+<img src="{{site.baseurl}}/img/to-do-list.jpg" width="200" align="left" style="PADDING-RIGHT: 15px;"/>
 
 - Reduce my life debt. I'm in inherently responsible person who worries about things not getting done. When you work full
 time there's a backlog of 'life tasks' that build up, such as house chores, commms with friends, exercise, etc. I want to
