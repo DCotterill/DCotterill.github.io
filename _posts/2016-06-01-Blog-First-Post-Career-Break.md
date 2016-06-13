@@ -31,7 +31,7 @@ Some goals:
 <img src="{{site.baseurl}}/img/relax.jpg" width="150" align="left" style="PADDING-RIGHT: 15px;"/></div> **Relax**. I always crave breaks and days to really relax and slow down. I'm the type of person who tries to squeeze as
 much as possible out of my time, which means at weekends I'm always trying to get the family to do something or go
 somewhere. If I'm not doing that, there's 1 million things I should be doing around the house, etc. I'm hoping this
- freedom will remove the guilt of the occasional 'nothing day'
+ freedom will remove the guilt of the occasional 'nothing day'.yay
  
 <br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left">
