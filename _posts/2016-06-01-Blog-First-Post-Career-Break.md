@@ -28,14 +28,14 @@ necessarily mean I won't be doing any work, but I'll be aiming to follow MMM's a
 Some goals:
 
 <div style="height:150px;  width:150px; overflow:hidden; align:left">
-<img src="{{site.baseurl}}/img/relax.jpg" width="150" align="left" style="PADDING-RIGHT: 15px;"/></div> **Relax**. I always crave breaks and days to really relax and slow down. I'm the type of person who tries to squeeze as
+<img src="{{site.baseurl}}/img/relax.jpg" width="150" align="left" style="PADDING-RIGHT: 15px;"/></div>**Relax**. I always crave breaks and days to really relax and slow down. I'm the type of person who tries to squeeze as
 much as possible out of my time, which means at weekends I'm always trying to get the family to do something or go
 somewhere. If I'm not doing that, there's 1 million things I should be doing around the house, etc. I'm hoping this
  freedom will remove the guilt of the occasional 'nothing day'.yay
  
 <br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left">
-<img src="{{site.baseurl}}/img/to-do-list.jpg" width="150" align="left" style="PADDING-RIGHT: 15px;"/> </div> **Reduce my life debt**. I'm in inherently responsible person who worries about things not getting done. When you work full
+<img src="{{site.baseurl}}/img/to-do-list.jpg" width="150" align="left" style="PADDING-RIGHT: 15px;"/></div>**Reduce my life debt**. I'm in inherently responsible person who worries about things not getting done. When you work full
 time there's a backlog of 'life tasks' that build up, such as house chores, commms with friends, exercise, etc. I want to
 pay down that debt, so when I have something truely inspiring I want to do, I'm not distracted by the million other things
 
