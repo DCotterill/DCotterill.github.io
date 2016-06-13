@@ -34,7 +34,7 @@ somewhere. If I'm not doing that, there's 1 million things I should be doing aro
  freedom will remove the guilt of the occasional 'nothing day'.yay
  
 <br/>
-<div style="height:150px;  width:150px; overflow:hidden; align:left">
+<div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/to-do-list.jpg" width="150" align="left" style="PADDING-RIGHT: 15px;"/></div>**Reduce my life debt**. I'm in inherently responsible person who worries about things not getting done. When you work full
 time there's a backlog of 'life tasks' that build up, such as house chores, commms with friends, exercise, etc. I want to
 pay down that debt, so when I have something truely inspiring I want to do, I'm not distracted by the million other things
