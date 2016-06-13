@@ -50,28 +50,28 @@ some prep time in how to be energetic with them, not exhausted. Put some learnin
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/coding-beach.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Tech time. Ideas, technology**
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/running.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Activities time**.
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/mooc.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Learning**.
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/blog.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Publishing**.
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/manage-money.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Money Management**. Create freedom and passive income streams
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/cooking.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Healthy Cooking**.
 
 -
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 - Future work planning.. maybe not for 6 months.
 
 The second thing people say to me after I announce my plans is 'You'll get bored in a few months'. Looking at that list
