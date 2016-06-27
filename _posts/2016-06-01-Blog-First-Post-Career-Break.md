@@ -21,11 +21,11 @@ From my thinking so far, here's a list of high level goals I have during that ti
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/relax.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Relax**. I always crave breaks, days off and holidays to really relax and slow down. I'm the type of person who tries to squeeze as much as possible out of my time, which means at weekends I'm always trying to get the family to do something or go somewhere. If I'm not doing that, there's a million things I should be doing around the house, etc. I'm hoping this freedom will remove the guilt of the occasional 'nothing day' where I don't feel like I'm wasting a valuable day off if I don't achieve something big.
  
-<br/><br/><br/>
+<br/><br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/to-do-list.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Reduce my life debt**. I generally worry about stuff not getting done. When you work full time there's a backlog of 'life tasks' that build up, such as house chores, meeting friends, exercise, a lifetime of digital photos, etc. I want to pay down that debt of 'stuff', so when I have something truly inspiring I want to do, I'm not distracted by the million other things I feel I should be doing instead.
 
-<br/><br/><br/><br/>
+<br/><br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/family-time.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Family time**.
 I have a 7yo son and a 5yo daughter. I've been lucky to have fairly normal working hours and very little work travel over the past 10 years, so I manage to spend time with my kids most days already. I still feel I can be a better Dad, focusing more time on my kids and their needs. Being less stressed and having more time available can only help me make this time better for them, and me. I've ventured into getting them coding already, but there is so much more I could do with a calm mind and a bit of spare time.
