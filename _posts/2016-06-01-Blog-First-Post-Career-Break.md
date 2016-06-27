@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Time for a break"
-date: 2016-06-27
+title: Time for a break
+date: 2016-06-27T00:00:00.000Z
 categories: scratch
+published: true
 ---
 
 After almost 20 years of full time work in the IT industry, I've made the decision to quit my job with nothing else to go to.
@@ -62,7 +63,7 @@ I have 2 weeks left of work, so for at least the first month I'll be prioritisin
 
 <mention of link to creativity - not sure of page>
 
-
+blah 
 visits and break
 
 http://www.mrmoneymustache.com/2015/04/15/great-news-early-retirement-doesnt-mean-youll-stop-working/
