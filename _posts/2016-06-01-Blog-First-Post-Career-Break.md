@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Time for a break
-date: 2016-06-27T00:00:00.000Z
+date: {}
 categories: scratch
 published: true
 ---
@@ -14,7 +14,7 @@ The first obvious question everyone asks is 'What are you going to do next?' It'
 
 I wont say much yet about why I'm leaving my current company. I'll consider writing about my experiences at Optiver once I've had time to contemplate when I've actually left. It seems genuinely confusing for some people to hear I'm voluntarily leaving a role with benefits like free lunch and breakfast, amazing office, gym membership, weekly massages, annual trips away, regular dinners and parties and large bonuses, but it's clear that once you have these things for a while they become the 'new norm' and don't really feel like a benefit any more. 
 
-So.. I have 2 weeks left. What *will* I be doing? It's hard to predict, but at the moment I expect to spend at least 9-12 months not working for a company. This doesn't necessarily mean I won't be doing any work, but I'll be aiming to follow MMM's advice of only doing stuff I'd do for free, and not feel compelled to do something <other link>
+So.. I have 2 weeks left. What *will* I be doing? It's hard to predict, but at the moment I expect to spend at least 9-12 months not working for a company. This doesn't necessarily mean I won't be doing any work, but I'll be aiming to follow some good advice of [only doing stuff I'd do for free, and not feel compelled to do something.](http://www.mrmoneymustache.com/2015/04/15/great-news-early-retirement-doesnt-mean-youll-stop-working): 
 
 From my thinking so far, here's a list of high level goals I have during that time.
 
@@ -36,7 +36,7 @@ I have a 7yo son and a 5yo daughter. I've been lucky to have fairly normal worki
 
 <br/><br/><br/><br/><br/><br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
-<img src="{{site.baseurl}}/img/running.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Activities time**. I love running and outdoor activities, but always feel crammed to fit them in around my work schedule and never feel like I reach my full potential. I want to do more, but also spend time doing more outdoor activities which make me happy. Cycling, swimming, surfing, bush walking, kayaking, climbing.. in Sydney the list is endless.
+<img src="{{site.baseurl}}/img/running.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Activities time**. I love [trail running](blog/2016/05/31/Scratch-Elevation-Marathon) and outdoor activities, but always feel crammed to fit them in around my work schedule and never feel like I reach my full potential. I want to do more, but also spend time doing more outdoor activities which make me happy. Cycling, swimming, surfing, bush walking, kayaking, climbing.. in Sydney the list is endless.
 
 <br/><br/><br/><br/><br/><br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
@@ -46,24 +46,19 @@ Almost every day I see a new online course, tech book, conference talk to add to
 <br/><br/><br/><br/><br/><br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/blog.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Publishing**.
-I've always thought about blogging and publishing my ideas and experiences, but it's never quite made it high enough in my priorities. This is the best chance I'll get to give it a shot. My plan is to use this site to capture my plans <link>, now page <link>, and eventually write some personal and technical blog posts.
+I've always thought about blogging and publishing my ideas and experiences, but it's never quite made it high enough in my priorities. This is the best chance I'll get to give it a shot. My plan is to use this site to capture [my plans](/plans) and eventually write some personal and technical blog posts.
 
 <br/><br/><br/><br/><br/><br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/manage-money.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Money Management**. Create freedom and passive income streams
-I'm very lucky I can afford the time to not work. At the moment, I expect this to be a temporary situation as my wife's business <link> keeps us. Even after 12 months though, I want to be in a position where I don't have to work unless I want to <link = http://www.mrmoneymustache.com/2015/04/15/great-news-early-retirement-doesnt-mean-youll-stop-working/>, so I need to spend some time doing some budgeting to work out what we can cut back on that won't affect our lifestyle too much, and whether I can improve my passive income streams from current investments. I've always been fairly frugal; I don't like fancy restaurants, expensive clothes, or even expensive holidays, but I'm sure there's still a lot of waste in our outgoings. This will give me a much clearer picture of long term financial goals and how to achieve them.
+I'm very lucky I can afford the time to not work. At the moment, I expect this to be a temporary situation as [my wife's recruitment business](http://www.2degreesrecruitment.com.au/) <link> keeps us financially secure. Even after 12 months though, I want to be in a position where I don't have to work unless I want to, so I need to spend some time doing some budgeting to work out what we can cut back on that won't affect our lifestyle too much, and whether I can improve my passive income streams from current investments. I've always been fairly frugal; I don't like fancy restaurants, expensive clothes, or even expensive holidays, but I'm sure there's still a lot of waste in our outgoings. This will give me a much clearer picture of long term financial goals and how to achieve them.
 
 The second thing people say to me after I announce my plans is 'You'll get bored in a few months and be looking for a new job'. The more I think about it, I don't think that will happen any time soon.
 
 During my time off, I'm hoping to keep an up-to-date list of:
-- Things I'm focusing on now <link>
-- Plans that I'd like to do <link>
+- Things I'm focusing on [now](/now).
+- [Plans](/plans) that I'd like to do.
 
 I have 2 weeks left of work, so for at least the first month I'll be prioritising the 'relax' goal fairly highly, so I'm straigt off to New Zealand with the family for a week of snowboarding :-)
 
-<mention of link to creativity - not sure of page>
-
-blah 
-visits and break
-
-http://www.mrmoneymustache.com/2015/04/15/great-news-early-retirement-doesnt-mean-youll-stop-working/
+Hopefully after that, this site will take some shape and I'll be doing something useful worth writing about here.
