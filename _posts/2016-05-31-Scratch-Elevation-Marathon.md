@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Elevation Marathon Challenge - Automated Strava Burndown"
-date: 2016-05-31 
+title: Elevation Marathon Challenge - Automated Strava Burndown
+date: {}
 categories: scratch
+published: true
 ---
 
 
