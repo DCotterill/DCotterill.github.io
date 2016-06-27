@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Elevation Marathon Challenge - Automated Strava Burndown
-date: {}
+date: 2016-05-31T00:00:00.000Z
 categories: scratch
 published: true
+permlink: elevation-marathon-challenge-strava-burndown
 ---
 
 
