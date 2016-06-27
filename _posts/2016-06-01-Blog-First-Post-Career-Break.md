@@ -43,7 +43,7 @@ I have a 7yo son and a 5yo daughter. I've been lucky to have fairly normal worki
 <img src="{{site.baseurl}}/img/mooc.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Learning**.
 Almost every day I see a new online course, tech book, conference talk to add to my learning list. I try, but fail pretty badly at getting through anything on the list (My Pocket un-read count is 3,412!!). I suspect I'll find it fairly difficult to self motivate to do this, even with lots of time, but I'm going to set myself some goals and try my best. By being a bit more focused and managing my time better, I hope I can build learning new things into my permanent schedule.
 
-<br/><br/>
+<br/><br/><br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/blog.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Publishing**.
 I've always thought about blogging and publishing my ideas and experiences, but it's never quite made it high enough in my priorities. This is the best chance I'll get to give it a shot. My plan is to use this site to capture [my plans](/plans) and eventually write some personal and technical blog posts.
