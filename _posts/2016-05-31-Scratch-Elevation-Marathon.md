@@ -5,6 +5,7 @@ date: 2016-05-31T00:00:00.000Z
 categories: scratch
 published: true
 permlink: /post/elevation-marathon-challenge-strava-burndown
+permalink: /post/elevation-marathon-challenge-strava-burndown
 ---
 
 
