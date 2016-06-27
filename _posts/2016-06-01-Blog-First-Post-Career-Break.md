@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Time for a break
-date: {}
+date: 2016-06-27T00:00:00.000Z
 categories: scratch
 published: true
 permalink: /time-for-a-break/
