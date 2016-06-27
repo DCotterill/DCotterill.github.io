@@ -25,12 +25,12 @@ From my thinking so far, here's a list of high level goals I have during that ti
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/to-do-list.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Reduce my life debt**. I generally worry about stuff not getting done. When you work full time there's a backlog of 'life tasks' that build up, such as house chores, meeting friends, exercise, a lifetime of digital photos, etc. I want to pay down that debt of 'stuff', so when I have something truly inspiring I want to do, I'm not distracted by the million other things I feel I should be doing instead.
 
-<br/><br/>
+<br/><br/><br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/family-time.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Family time**.
 I have a 7yo son and a 5yo daughter. I've been lucky to have fairly normal working hours and very little work travel over the past 10 years, so I manage to spend time with my kids most days already. I still feel I can be a better Dad, focusing more time on my kids and their needs. Being less stressed and having more time available can only help me make this time better for them, and me. I've ventured into getting them coding already, but there is so much more I could do with a calm mind and a bit of spare time.
 
-<br/><br/><br/><br/>
+<br/><br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/coding-beach.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Tech time. Ideas, technology**. The last several years of my career have moved me more to management than technology, but I still get excited by new tech and building things. The annual 'innovation day' at work, when I actual get to code and build something turns out to be my favourite day of the year. I plan to spend more time programming and experimenting to see if it's something I enjoy again if it's just because it's a break from the norm. Python seems to be my go-to productive language at the moment, but I'd like to use a functional language to do something real, so will most likely learn some Elixir/Phoenix to keep up with the cool kids.
 
