@@ -37,7 +37,7 @@ I have a 7yo son and a 5yo daughter. I've been lucky to have fairly normal worki
 
 <br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
-<img src="{{site.baseurl}}/img/running.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Activities time**. I love [trail running](blog/2016/05/31/Scratch-Elevation-Marathon) and outdoor activities, but always feel crammed to fit them in around my work schedule and never feel like I reach my full potential. I want to do more, but also spend time doing more outdoor activities which make me happy. Cycling, swimming, surfing, bush walking, kayaking, climbing.. in Sydney the list is endless.
+<img src="{{site.baseurl}}/img/running.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Activities time**. I love [trail running](/posts/elevation-marathon-challenge-strava-burndown) and outdoor activities, but always feel crammed to fit them in around my work schedule and never feel like I reach my full potential. I want to do more, but also spend time doing more outdoor activities which make me happy. Cycling, swimming, surfing, bush walking, kayaking, climbing.. in Sydney the list is endless.
 
 <br/><br/><br/><br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
