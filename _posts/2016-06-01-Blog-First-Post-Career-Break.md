@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Time for a break
-date: 2016-06-27T00:00:00.000Z
+date: {}
 categories: scratch
 published: true
 permalink: /time-for-a-break/
@@ -57,8 +57,8 @@ I'm very lucky I can afford the time to not work. At the moment, I expect this t
 The second thing people say to me after I announce my plans is 'You'll get bored in a few months and be looking for a new job'. The more I think about it, I don't think that will happen any time soon.
 
 During my time off, I'm hoping to keep an up-to-date list of:
-- Things I'm focusing on [now](/now).
-- [Plans](/plans) that I'd like to do.
+* Things I'm focusing on [now](/now).
+* [Plans](/plans) that I'd like to do.
 
 I have 2 weeks left of work, so for at least the first month I'll be prioritising the 'relax' goal fairly highly, so I'm straigt off to New Zealand with the family for a week of snowboarding :-)
 
