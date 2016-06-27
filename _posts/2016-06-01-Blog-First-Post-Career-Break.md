@@ -34,7 +34,7 @@ I have a 7yo son and a 5yo daughter. I've been lucky to have fairly normal worki
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/coding-beach.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Tech time. Ideas, technology**. The last several years of my career have moved me more to management than technology, but I still get excited by new tech and building things. The annual 'innovation day' at work, when I actual get to code and build something turns out to be my favourite day of the year. I plan to spend more time programming and experimenting to see if it's something I enjoy again if it's just because it's a break from the norm. Python seems to be my go-to productive language at the moment, but I'd like to use a functional language to do something real, so will most likely learn some Elixir/Phoenix to keep up with the cool kids.
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
 <div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 <img src="{{site.baseurl}}/img/running.jpg" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>**Activities time**. I love [trail running](blog/2016/05/31/Scratch-Elevation-Marathon) and outdoor activities, but always feel crammed to fit them in around my work schedule and never feel like I reach my full potential. I want to do more, but also spend time doing more outdoor activities which make me happy. Cycling, swimming, surfing, bush walking, kayaking, climbing.. in Sydney the list is endless.
 
