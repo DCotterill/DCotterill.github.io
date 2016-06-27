@@ -4,6 +4,7 @@ title: Time for a break
 date: 2016-06-27T00:00:00.000Z
 categories: scratch
 published: true
+permalink: /time-for-a-break/
 ---
 
 After almost 20 years of full time work in the IT industry, I've made the decision to quit my job with nothing else to go to.
