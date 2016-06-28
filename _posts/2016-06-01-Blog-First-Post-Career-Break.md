@@ -13,9 +13,9 @@ I consider myself very lucky that my choice of career pays well enough to allow 
 
 The first obvious question everyone asks is 'What are you going to do next?' It's easy to reply 'nothing' or 'not sure yet' as most people don't seem to quite understand that I'm not doing the usual thing and looking to move to another 'better' IT job.
 
-This isn't a post about why I'm leaving. There are a lot of experiences I've had at Optiver that I may find the time to write about once I've left, but for now I want to think more about my time off and what to do next. After all, the break is the main reason I'm leaving.
+This isn't a post about why I'm leaving. There are a lot of interesting experiences I've had at Optiver that I may find the time to write about once I've left, but for now I want to think more about my time off and what to do next. After all, the break is the main reason I'm leaving.
 
-So.. I have 2 weeks left. What *will* I be doing? It's hard to predict, but at the moment I expect to spend at least 9-12 months not working for a company. This doesn't necessarily mean I won't be doing any work, but I'll be aiming to follow some good advice of [only do work I'd do for free.](http://www.mrmoneymustache.com/2015/04/15/great-news-early-retirement-doesnt-mean-youll-stop-working).
+So... I have 2 weeks left. What *will* I be doing? It's hard to predict, but at the moment I expect to spend at least 9-12 months not working for a company. This doesn't necessarily mean I won't be doing any work, but I'll be aiming to follow some good advice of [only do work I'd do for free.](http://www.mrmoneymustache.com/2015/04/15/great-news-early-retirement-doesnt-mean-youll-stop-working)
 
 From my thinking so far, here's a list of high level goals I have during that time:
 
