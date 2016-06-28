@@ -5,8 +5,7 @@ published: true
 
 ## This is my now page
 
-To make the most of my career break, I want to spend as much spare time as possible focusing on new experiences that help me learn
-and have fun. I liked the idea (link) of publicly declaring this to keep myself honest.
+To make the most of my career break, I want to spend as much spare time as possible focusing on new experiences that help me learn and have fun. I like the idea of [publicly declaring this to keep myself honest.](https://sivers.org/nowff)
 
 All the things on this list are 'spare time' at the moment until I finish work in July, and after that take a 'do nothing' break for a month or so. After that, it will become my main list of significant projects.
 
@@ -16,10 +15,12 @@ All the things on this list are 'spare time' at the moment until I finish work i
     - Blog and publish my experiences that I think are worthwhile (possible, needs content)
     - Work on some ways of including dynamic content. I've done [this](/scratch/strava-elevation.html) already, but have some more ideas for content I want to include.
 
+
 - Site content. A few things in draft stage which need more time:
     - Personal content. 'About me, this page, plans, etc'
     - Blog post about how I set this site up, and which tech I used, in particular how I've published dynamic content from processes scheduled from Heroku
     - Blog post about quitting Optiver and what I plan to do in my career break
+
 
 - I currently have these books on the go:
     - [Reinventing Organisations - Frederic Laloux](http://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501). I watched this [video](https://www.youtube.com/watch?v=gcS04BI2sbk) from Frederic a while back, loved it and want to find out more.
