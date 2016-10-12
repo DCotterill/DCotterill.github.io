@@ -22,7 +22,7 @@ Every aspect of this talk gels with me completely. Since I've not been working m
 
 This slide resonated with me particularly. Maybe I should get a custom credit card with this picture on it :-)
 <div style="width:700px; overflow:hidden; align:centre; ">
-<img src="{{site.baseurl}}/img/dhali-lama-iphone.jpg" width="700px" align="centre"/></div>
+<img src="{{site.baseurl}}/img/dhali-lama-iphone.png" width="700px" align="centre"/></div>
 
 The personal debt aspect is particularly important for Australia, as we have the **highest personal debt in THE WORLD!**. When I wrote this the personal debt on [Australian Debt Clock](http://www.australiandebtclock.com.au/clocks) was $145 billion of which $43 billion was credit card debt! Just visit that site and see the numbers tick over to get a shock.
 
