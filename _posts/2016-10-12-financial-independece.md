@@ -35,4 +35,7 @@ If you take **anything** from this, it should be that financial freedom isn't ju
 
 From my time at home so far, I've realised that I an much happier when I can be outside, not chained to a desk, and I really like building things (which is why I think I always enjoyed being a developer). I would have never been able to build this if I didn't have the spare time at home, and it really is awesome, even if I say so myself :-)
 
-<p><center><iframe src="https://www.flickr.com/photos/daz_and_di/29579812934/" width="700" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
+<p><center>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/daz_and_di/29579812934/" title="Untitled"><img src="https://c7.staticflickr.com/9/8420/29579812934_8bc58fa42c_b.jpg" width="1024" height="576" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<iframe src="https://www.flickr.com/photos/daz_and_di/29579812934/" width="700" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
