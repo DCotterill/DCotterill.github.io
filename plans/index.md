@@ -13,6 +13,7 @@ It's my backlog of large stuff, which eventually I hope will make it onto my [no
 
 * Setup some home automation tech. I'd like to play with [OpenHAB](www.openhab.org) and some basic controlling devices
 * Setup my Raspberry Pi as a media server (it's been sitting in my drawer for a year)
+* Move http://www.2degreesrecruitment.com.au/ from Heroku/Ruby to GitHub Pages/Markdown
 * Build a site for to graph my Strava metrics. e.g. Kms climbed per year burn up chart
 * Learn a new language properly. Possibly Elm, Elixir, http://www.phoenixframework.org/
 * Play around with my LeapMotion (also been in a drawer gathering dust) to see if I can use it for anything useful
@@ -29,7 +30,7 @@ It's my backlog of large stuff, which eventually I hope will make it onto my [no
 
 ### Home projects
 
-* Build an RC car track in my loft. I have approx 5x10m space I could use for a track. Would love to have a FPV experience for car racing
+* Build an RC car track in my loft. I have approx 5x10m space I could use for a track. Would love to have a FPV experience for car racing. 
 * Properly sort out my home veggie garden. I have one, but results are paltry so far.
 
 ### Learning
