@@ -36,9 +36,12 @@ There's so much truth in the answer that financial freedom doesn't stop you work
 
 If you take _anything_ from this, it should be that financial freedom isn't just for the 1 percent of highest income earners, with $million salaries, or for people who only live on beans on toast, it's just about not letting your spending increase with (and often above) your income. Don't spend money you don't have, and don't believe that having more money means you can spend more, which means you'll be happier. Chasing this goal is impossible and the road to misery.
 
+What I'd like to research more is _why_ I seem to be different to so many people out there. I don't have a particularly unique background, and I can't blame being a naive Canadian like Mr Money Mustache. I was brought up to think about savings and be careful with money, but I think a lot of parents must teach that to their kids with little success. 
+
+Saving isn't boring. Not being able to do what you enjoy with your life is boring! Go out and save!
+
 From my time at home so far, I've realised that I an much happier when I can be outside, not chained to a desk, and I really like building things. This isn't a suprise given how much I've always enjoyed being a programmer. I would have never been able to build this if I didn't have the spare time at home, which was a heap of run and even if I say so myslef, is pretty awesome :-)
 
 <p><center>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/daz_and_di/29579812934/" title="Untitled"><img src="https://c7.staticflickr.com/9/8420/29579812934_8bc58fa42c_b.jpg" width="800" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Go out and save!
