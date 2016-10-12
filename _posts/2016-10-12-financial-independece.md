@@ -8,7 +8,6 @@ permalink: /posts/financial-independence/
 published: true
 ---
 
-
 I've always felt a little different to the majority of people in my attitude to money and spending. I've always been a saver from an early age, been bewildered when I see people racking up credit card debt and even felt uneasy paying the bank interest on a mortgage. I recently discover [Mr Money Mustache](http://www.mrmoneymustache.com/), a Financial Freedom blogger who retired at 30 and now has around 50,000 visitors to his site every day!
 
 His tagline _'Financial Freedom through Badassity'_ aims to help others achieve the same freedom that MMM has, and tries to convice everyone that it's actually quite an easy goal, which most people don't beleive, and that 'buying more stuff' is not the way to happiness anyway.
@@ -29,4 +28,11 @@ This slide resonated with me particularly. Maybe I should get a custom credit ca
 
 The personal debt aspect is particularly important for Australia, as we have the **highest personal debt in THE WORLD!**. When I wrote this the personal debt on [Australian Debt Clock](http://www.australiandebtclock.com.au/clocks) was $145 billion of which $43 billion was credit card debt! Just visit that site and see the numbers tick over to get a shock.
 
-I also particularly like his response to people who say 'but I really like my job'. There's so much truth in the answer that financial freedom doesn't stop you working, it just removes ties to opens up a world of opportunities and possibilities.
+I also particularly like his response to people who say 'but I really like my job'. 
+There's so much truth in the answer that financial freedom doesn't stop you working, it just removes ties to opens up a world of opportunities and possibilities.
+
+If you take **anything** from this, it should be that financial freedom isn't just for the 1 percent, with million $ bonuses, or for people who only live on beans on toast, it's just about not letting your spending increase with (and often above) your income. Don't spend money you don't have, and don't believe that having more means you can spend more, which means you'll be happier.
+
+From my time at home so far, I've realised that I an much happier when I can be outside, not chained to a desk, and I really like building things (which is why I think I always enjoyed being a developer). I would have never been able to build this if I didn't have the spare time at home, and it really is awesome, even if I say so myself :-)
+
+<p><center><iframe src="https://www.flickr.com/photos/daz_and_di/29579812934/" width="700" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
