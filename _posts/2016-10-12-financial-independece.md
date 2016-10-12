@@ -21,10 +21,8 @@ so.. (hopefully you watched the video :-))
 Every aspect of this talk gels with me completely. Since I've not been working my attitude towards commercialism and buying stuff has become even stronger. Not because I want to be more frugal, but because I think when you're working hard to earn money, then buying things seems like some kind of 'reward' for the hard work. When you're not working you just want to protect that freedom by not wasting money on stuff you don't really need that doesn't make you happy anyway. I found myself in a Westfield mall a few weeks ago and I literally felt sick walking around the shops looking at how expensive 'fashion' is, and that so many people get sucked into buying this stuff when they can't afford it at all. I find it genuinely confusing how some people find shopping fun.
 
 This slide resonated with me particularly. Maybe I should get a custom credit card with this picture on it :-)
-<p><centre>
-![Dhali-Lama-iPhone]({{site.baseurl}}/img/dhali-lama-iphone.png)
-</centre></p>
-
+<div style="width:700px; overflow:hidden; align:centre; ">
+<img src="{{site.baseurl}}/img/dhali-lama-iphone.jpg" width="700px" align="centre"/></div>
 
 The personal debt aspect is particularly important for Australia, as we have the **highest personal debt in THE WORLD!**. When I wrote this the personal debt on [Australian Debt Clock](http://www.australiandebtclock.com.au/clocks) was $145 billion of which $43 billion was credit card debt! Just visit that site and see the numbers tick over to get a shock.
 
