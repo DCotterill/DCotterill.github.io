@@ -1,7 +1,7 @@
 ---
 title: 'Financial Indpendence, Early ''Retirement'' and Working for Love.'
 layout: post
-date: 2016-10-12T00:00:00.000Z
+date: {}
 categories: published
 comments: true
 permalink: /posts/financial-independence/
@@ -22,7 +22,7 @@ Every aspect of this talk gels with me completely. Since I've not been working m
 
 This slide resonated with me particularly. Maybe I should get a custom credit card with this picture on it :-)
 
-![Screen Shot 2016-10-11 at 10.26.19 AM.png]({{site.baseurl}}/_posts/dhali-lama-iphone.png)
+![Screen Shot 2016-10-11 at 10.26.19 AM.png]({{site.baseurl}}/posts/dhali-lama-iphone.png)
 
 
 
