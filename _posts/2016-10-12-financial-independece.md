@@ -8,7 +8,7 @@ permalink: /posts/financial-independence/
 published: true
 ---
 
-I've always felt a little different to the majority of people in my attitude to money and spending. I've always been a saver from an early age, I'm bewildered when I see people racking up credit card debt and even feel uneasy paying the bank interest on a mortgage. I recently discovered [Mr Money Mustache](http://www.mrmoneymustache.com/), a Financial Freedom blogger who 'retired' from his software job at 30. and now has around 50,000 visitors to his site every day!
+I've always felt a little different to the majority of people in my attitude to money and spending. I've always been a saver from an early age, I'm bewildered when I see people racking up credit card debt and even feel uneasy paying the bank interest on a mortgage. I recently discovered [Mr Money Mustache](http://www.mrmoneymustache.com/), a Financial Freedom blogger who 'retired' from his software job at 31. 
 
 His tagline _'Financial Freedom through Badassity'_ aims to help others achieve the same freedom that MMM has, and tries to convince everyone that it's actually quite an easy goal, which most people don't believe, and that 'buying more stuff' is not the way to happiness anyway. He has around 50k visitors to his site every day, and a community of _Mustahcians_ following the same ideas. 
 
