@@ -21,9 +21,9 @@ so.. (hopefully you watched the video :-))
 Every aspect of this talk gels with me completely. Since I've not been working my attitude towards commercialism and buying stuff has become even stronger. Not because I want to be more frugal, but because I think when you're working hard to earn money, then buying things seems like some kind of 'reward' for the hard work. When you're not working you just want to protect that freedom by not wasting money on stuff you don't really need that doesn't make you happy anyway. I found myself in a Westfield mall a few weeks ago and I literally felt sick walking around the shops looking at how expensive 'fashion' is, and that so many people get sucked into buying this stuff when they can't afford it at all. I find it genuinely confusing how some people find shopping fun.
 
 This slide resonated with me particularly. Maybe I should get a custom credit card with this picture on it :-)
-
+<centre>
 ![Dhali-Lama-iPhone]({{site.baseurl}}/img/dhali-lama-iphone.png)
-
+</centre>
 
 
 The personal debt aspect is particularly important for Australia, as we have the **highest personal debt in THE WORLD!**. When I wrote this the personal debt on [Australian Debt Clock](http://www.australiandebtclock.com.au/clocks) was $145 billion of which $43 billion was credit card debt! Just visit that site and see the numbers tick over to get a shock.
@@ -36,6 +36,5 @@ If you take **anything** from this, it should be that financial freedom isn't ju
 From my time at home so far, I've realised that I an much happier when I can be outside, not chained to a desk, and I really like building things (which is why I think I always enjoyed being a developer). I would have never been able to build this if I didn't have the spare time at home, and it really is awesome, even if I say so myself :-)
 
 <p><center>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/daz_and_di/29579812934/" title="Untitled"><img src="https://c7.staticflickr.com/9/8420/29579812934_8bc58fa42c_b.jpg" width="1024" height="576" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/daz_and_di/29579812934/" title="Untitled"><img src="https://c7.staticflickr.com/9/8420/29579812934_8bc58fa42c_b.jpg" width="800" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<iframe src="https://www.flickr.com/photos/daz_and_di/29579812934/" width="700" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
