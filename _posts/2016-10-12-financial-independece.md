@@ -22,7 +22,7 @@ Every aspect of this talk gels with me completely. Since I've not been working m
 
 This slide resonated with me particularly. Maybe I should get a custom credit card with this picture on it :-)
 
-![Dhali-Lama-iPhone]({{site.baseurl}}/posts/dhali-lama-iphone.png)
+![Dhali-Lama-iPhone]({{site.baseurl}}/_posts/dhali-lama-iphone.png)
 
 
 
