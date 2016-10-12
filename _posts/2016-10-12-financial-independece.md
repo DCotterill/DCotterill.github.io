@@ -1,9 +1,10 @@
 ---
 layout: post
-date: 2016-10-12T00:00:00.000Z
+date: {}
 categories: published
 comments: true
 permalink: /posts/financial-independence/
+published: false
 ---
 ## Financial Independence, Early Retirement and Working for Love.
 
