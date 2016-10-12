@@ -1,7 +1,7 @@
 ---
 title: 'Financial Independence, Early ''Retirement'' and Working for Love.'
 layout: post
-date: {}
+date: 2016-06-27T00:00:00.000Z
 categories: published
 comments: true
 permalink: /posts/financial-independence/
@@ -44,4 +44,3 @@ From my time at home so far, I've realised that I an much happier when I can be 
 
 <p><center>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/daz_and_di/29579812934/" title="Untitled"><img src="https://c7.staticflickr.com/9/8420/29579812934_8bc58fa42c_b.jpg" width="800" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
