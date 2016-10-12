@@ -4,6 +4,7 @@ title: Time for a break
 date: 2016-06-27T00:00:00.000Z
 categories: published
 published: true
+comments: true
 permalink: /posts/time-for-a-break/
 ---
 
