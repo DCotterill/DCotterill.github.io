@@ -5,7 +5,7 @@ date: 2016-10-12T00:00:00.000Z
 categories: published
 comments: true
 permalink: /posts/financial-independence/
-published: false
+published: true
 ---
 
 I've always felt a little different to the majority of people in my attitude to money and spending. I've always been a saver from an early age, been bewildered when I see people racking up credit card debt and even felt uneasy paying the bank interest on a mortgage. I recently discover [Mr Money Mustache](http://www.mrmoneymustache.com/), a Financial Freedom blogger who retired at 30 and now has around 50,000 visitors to his site every day!
