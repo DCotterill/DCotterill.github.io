@@ -1,7 +1,7 @@
 ---
 title: 'Financial Indpendence, Early ''Retirement'' and Working for Love.'
 layout: post
-date: 2016-10-12T00:00:00.000Z
+date: {}
 categories: published
 comments: true
 permalink: /posts/financial-independence/
