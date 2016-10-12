@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 date: 2016-10-12T00:00:00.000Z
 categories: published
