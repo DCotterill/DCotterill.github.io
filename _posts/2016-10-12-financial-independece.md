@@ -1,7 +1,7 @@
 ---
 title: 'Financial Independence, Early ''Retirement'' and doing work you love.'
 layout: post
-date: 2016-06-27T00:00:00.000Z
+date: 2016-10-12T00:00:00.000Z
 categories: published
 comments: true
 permalink: /posts/financial-independence/
@@ -39,7 +39,7 @@ Just like the Americans, Australians are set to never retire, which will have a 
 I also particularly like the response to people who say 'but I really like my job'. 
 There's so much truth that financial freedom doesn't stop you working, it just removes ties and opens up a world of opportunities and possibilities. Personally, I now find myself exploring many different ideas I'd never have thought possible in the wage trap and it's possible to just start thinking about the aspects of life that you enjoy, then finding meaningful work that aligns.
 
-The main point here that I think is most mis-understood is that financial freedom isn't just for the 1 percent of highest income earners, with $million salaries, or for people who only live on beans on toast, it's just about following the simple rule of spending less than you earn. This is even simpler when you consider people's salaries generally increase over time, especially in professional careers, so it's just a case of us not letting our spending increase with (and often above) our incomes. 
+The main point here that I think is most misunderstood is that financial freedom isn't just for the 1 percent of highest income earners, with $million salaries, or for people who only live on beans on toast, it's just about following the simple rule of spending less than you earn. This is even simpler when you consider people's salaries generally increase over time, especially in professional careers, so it's just a case of us not letting our spending increase with (and often above) our incomes. 
 
 I'd like to research more is _why_ my perspective seems to be different to so many people out there. I also watched some of Dan Ariely's Behavioural Economics talks about personal finance and I don't really seem to fall into a lot of the bias traps around this either. They just seem illogical. I don't have a particularly unique background, and I can't blame being a naive Canadian like Mr Money Mustache. I was brought up to think about savings and be careful with money, but many parents teach that to their kids, and it doesn't seem to correlate. I don't want my kids to suck at money.
 
