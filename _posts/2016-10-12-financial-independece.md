@@ -49,3 +49,5 @@ From my time at home so far, I've realised that I an much happier when I can be 
 
 <p><center>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/daz_and_di/29579812934/" title="Untitled"><img src="https://c7.staticflickr.com/9/8420/29579812934_8bc58fa42c_b.jpg" width="800" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<meta property="og:image" content="http://www.dcotterill.com/img/dhali-lama-iphone.png" />
