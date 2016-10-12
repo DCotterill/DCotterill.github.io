@@ -1,5 +1,10 @@
 ---
 published: false
+layout: post
+date: 2016-10-12T00:00:00.000Z
+categories: published
+comments: true
+permalink: /posts/financial-independence/
 ---
 ## Financial Independence, Early Retirement and Working for Love.
 
@@ -20,9 +25,3 @@ This slide resonated with me particularly. Maybe I should get a custom credit ca
 The personal debt aspect is particularly important for Australia, as we have the **highest personal debt in THE WORLD!**. When I wrote this the personal debt on [Australian Debt Clock](http://www.australiandebtclock.com.au/clocks) was $145 billion of which $43 billion was credit card debt! Just visit that site and see the numbers tick over to get a shock.
 
 I also particularly like his response to people who say 'but I really like my job'. There's so much truth in the answer that financial freedom doesn't stop you working, it just removes ties to opens up a world of opportunities and possibilities.
-
-
-
-
-
-
