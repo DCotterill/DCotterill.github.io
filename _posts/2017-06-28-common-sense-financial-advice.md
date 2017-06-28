@@ -14,9 +14,19 @@ I'll start with some of my high level advice then go into a re-buttal of the poi
 Unfortunatly, the video at the top of the article actually seems to offer sensible, albeit 
 - Spend less than you earn
 
-- Investing and compound interest
+Impact of large changes
+
+- Invest wisely and compound interest
+
+Diversification
+Don't time the market
+Index funds
+Tax strategies
+Exponential growth
 
 - Setting goals that are easier than you think
+
+Achieving financial independence, against the norm - blogs
 
 - 
 
