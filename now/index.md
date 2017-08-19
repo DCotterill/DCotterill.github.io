@@ -5,23 +5,18 @@ published: true
 
 ## This is my now page
 
-To make the most of my career break, I want to spend as much spare time as possible focusing on new experiences that help me learn and have fun. I like the idea of [publicly declaring this to keep myself honest.](https://sivers.org/nowff)
-
-All the things on this list are 'spare time' at the moment until I finish work in July, and after that take a 'do nothing' break for a month or so. After that, it will become my main list of significant projects.
-
-- Setting up this site: A bit of a 'meta goal', but my number 1 technical priority, before I get carried away doing anything else, is getting this site setup properly. A few overall goals:
-	- Host static content, that I can easily update (mostly done)
-    - Keep track of the things I'm doing and learning (possible, needs content)
-    - Blog and publish my experiences that I think are worthwhile (possible, needs content)
-    - Work on some ways of including dynamic content. I've done [this](/scratch/strava-elevation.html) already, but have some more ideas for content I want to include.
+Here is the list of major projects I'm currently working on. I'd planned to keep this regularly updated, but I initially failed, so here goes attempt number 2..
 
 
-- Site content. A few things in draft stage which need more time:
-    - Personal content. 'About me, this page, plans, etc'
-    - Blog post about how I set this site up, and which tech I used, in particular how I've published dynamic content from processes scheduled from Heroku
-    - Blog post about quitting Optiver and what I plan to do in my career break
+- Developing Code Club: I've been running a Code Club at my kids' school for the last 6 months, which I need to develop further. More info here:
+
+- Looking into Robots: We recently bought a GoPiGo3, mainly to experiment with robots and coding with my kids, but as it's so new, it's proving an interesting learning experience for myself.
+
+- Computer Vision RC Car Lap Timer: My pet coding project at the moment is to learn about computer vision using the OpenCV libraries to build a webcam lap timer for my RC Car track with a Raspberry Pi. More info on this when it's in a fully working state.
+
+- Reviewing a book. One of my friends is writing a book on Digital Leadership. Although I'm not currently working in this area, it's something I still have a lot of interest in, so I'm reading along as he writes and edits it, both for learning and to help provide feedback.
+
+- Financial Independence learning. I've become a lot more interested in this field since I've not been working and spend a fair amount of time thinking about it and how it applies. I wrote a post a while back on the topic and since then I've been listening to a lot of podcasts. I need to write more about this too.
 
 
-- I currently have these books on the go:
-    - [Reinventing Organisations - Frederic Laloux](http://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501). I watched this [video](https://www.youtube.com/watch?v=gcS04BI2sbk) from Frederic a while back, loved it and want to find out more.
-    - [Buddhism for Busy People - David Michie](http://www.amazon.com/Buddhism-Busy-People-Happiness-Uncertain/dp/1559392983). I'd like to spend more time meditating, and I have this lying around the house, so it might encourage me.
+
