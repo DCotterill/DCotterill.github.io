@@ -11,8 +11,7 @@ Here is the list of major projects I'm currently working on. I'd planned to keep
 - Developing [Code Club](https://codeclubau.org/): I've been running a Code Club at my kids' school for the last 6 months, which I need to develop further. More info in a post soon.
 
 - Looking into Robots: We recently bought a [GoPiGo3](https://www.dexterindustries.com/gopigo3/), mainly to experiment with robots and coding with my kids, but as it's so new, it's proving an interesting learning experience for myself.
-![]({{site.baseurl}}/now/IMG_9293.JPG) ![IMG_2203.JPG]({{site.baseurl}}/now/IMG_2203.JPG)
-![]({{site.baseurl}}/now/IMG_2203.JPG)
+![]({{site.baseurl}}/now/IMG_9293.JPG =100x) ![]({{site.baseurl}}/now/IMG_2203.JPG =100x)
 - Computer Vision RC Car Lap Timer: My pet coding project at the moment is to learn about computer vision using the OpenCV libraries to build a webcam lap timer for my RC Car track with a Raspberry Pi. More info on this when it's in a fully working state. There's an amazing amount of information at [PyImageSearch](http://www.pyimagesearch.com/) for people interested in this stuff.
 
 - Slowly progressing through the infamous Andrew Ng [Coursera Machine Learning course](http://www.coursera.org/learn/machine-learning/home/welcome). I find this very interesting, but can't find the time to progress as quickly as I'd like at the moment. 
