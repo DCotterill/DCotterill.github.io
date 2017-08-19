@@ -18,5 +18,9 @@ Here is the list of major projects I'm currently working on. I'd planned to keep
 
 - Financial Independence learning. I've become a lot more interested in this field since I've not been working and spend a fair amount of time thinking about it and how it applies. I wrote a post a while back on the topic and since then I've been listening to a lot of podcasts. I need to write more about this too.
 
+- My current reading list can be found on Goodreads: https://www.goodreads.com/review/list/63849894-darren-cotterill?shelf=currently-reading&utm_campaign=mybooksnav&utm_content=mybooks_cta&utm_medium=web&utm_source=homepage&view=covers
+
+![Screen Shot 2017-08-19 at 10.06.59 am.png]({{site.baseurl}}/now/Screen Shot 2017-08-19 at 10.06.59 am.png)
+
 
 
