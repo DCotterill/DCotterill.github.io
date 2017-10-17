@@ -1,12 +1,15 @@
 ---
 published: true
 layout: post
-date: 2017-10-17T00:00:00.000Z
+date: {}
 categories: published
 comments: true
 permalink: /posts/starting-a-code-club/
 ---
 
+<p align="left">
+	<img src="{{site.baseurl}}/img/IMG_4968 2.jpg" width="500px"/>
+</p>
 
 One of the goals I had when finished up at work was to start a Code Club at my kids' school. It took me a little longer than I'd hoped to get started, but now we're into our 3rd Term. Everyone I talk to about it finds it an interesting topic, especially people with kids, so it's about time I wrote a little about it.
 
@@ -59,10 +62,7 @@ From the first few weeks of being crazily busy with a queue of hands always up a
 
 I've had a lot of feedback from the parents and the kids themselves about how much they enjoy it, which is really rewarding. You can see it in their engagement, and a few parents told me that Code Club morning is the only day they don't have to convince them to get ready and go to school.
 
-Here's a proud picture of my son freestyling his new found skills building his own Minecraft game, complete with obligatory developer headphones
-<p align="left">
-	<img src="{{site.baseurl}}/img/IMG_4968 2.jpg" width="500px"/>
-</p>
+The picture of at the top of this post is of my son freestyling his new found skills building his own Minecraft game, complete with obligatory developer headphones.
 
 Hopefully that's given you a little insight into a Code Club, and maybe a little motivation to get involved or set one up yourself! It's *much* easier than you think, and I would be happy to help guide people through the first few steps, or answer any questions. Just let me know!
 
@@ -71,7 +71,3 @@ I wanted to keep this short, but there's a lot more detail I'm keen to write abo
 - Lots of tips  for making Code Clubs effective, and my lessons learned so far
 - Why Scratch is great for learning, and not just a 'play language'
 - Progressing from Scratch to Python (We've just started this now!).
-
-
-
-
