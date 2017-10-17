@@ -7,9 +7,8 @@ comments: true
 permalink: /posts/starting-a-code-club/
 ---
 
-<p align="left">
-	<img src="{{site.baseurl}}/img/IMG_4968 2.jpg" width="500px"/>
-</p>
+
+<img align="right" src="{{site.baseurl}}/img/IMG_4968 2.jpg" width="400px"/>
 
 One of the goals I had when finished up at work was to start a Code Club at my kids' school. It took me a little longer than I'd hoped to get started, but now we're into our 3rd Term. Everyone I talk to about it finds it an interesting topic, especially people with kids, so it's about time I wrote a little about it.
 
