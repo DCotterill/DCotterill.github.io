@@ -28,7 +28,7 @@ As a basic intro though, it lets you drag and drop blocks to create programs, ma
 https://scratch.mit.edu/projects/63957956/#editor
 
 
-<img src="{{site.baseurl}}/img/Screen Shot 2017-10-17 at 3.01.09 pm.png" width="500px" align="left""/>
+<img src="{{site.baseurl}}/img/Screen Shot 2017-10-17 at 3.01.09 pm.png" width="500px" align="left"/>
 
 
 You can see the instructions that the students follow here, and test the game:
@@ -40,7 +40,7 @@ https://scratch.mit.edu/projects/63957956/#editor
 Here's a simple snippet of code from the game to explain how it works:
 
 
-<img src="{{site.baseurl}}/img/Screen Shot 2017-10-17 at 3.04.29 pm.png" width="500px" align="left"/></div>
+<img src="{{site.baseurl}}/img/Screen Shot 2017-10-17 at 3.04.29 pm.png" width="500px" align="left"/>
 
 This code is on the boat sprite and works like this:
 - When the 'game start (green flag)' event happens do this:
