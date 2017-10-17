@@ -19,30 +19,29 @@ The most important thing they provide are the [project materials for teaching](h
 
 The materials are provided for fee, with the condition that there is no charge for attending the Code Club; they should remain free for the students. This is a fantastic idea that helps make sure it's kept open to everyone, not just the parents who can afford extra curricular activities.
 
-Our club runs with around ~30 kids from Year 3 and 4, but we were overwhelmed with the interest and had to put quite a lot on the wait list, who will hopefully be able to join a second class next year. With hindsight, this was a good decision as we have 2 teachers helping out with myself, and a 10-1 student-adult ratio is about as high as you can get to provide the attention they need without getting distracted. We also have a roughly 50/50 boy/girl mix, which I'm really happy with and am hoping to actively keep the girls engaged as they get a little older.
+Our club runs with around ~30 kids from Year 3 and 4, but we were overwhelmed with the interest and had to put quite a lot on the wait list, who will hopefully be able to join a second class next year. With hindsight, this was a good decision as we have 2 teachers helping out with myself, and a 10-1 student-adult ratio is about as high as you can get to provide the attention they need without getting distracted. We also have a roughly 50/50 boy/girl mix, which I'm really happy with and am hoping to actively keep the girls engaged as they get a little older, as history tells us they can start to drop off if they lose interest.
 
-We spent the first 2 terms building a selection of Scratch projects, which I chose from the available list based on what I thought would be interesting and what would introduce new programming skills a the right pace. I'd like to talk about Scratch more in a later post as I think it's underrated as a teaching tool, and people are way too keen to move on to a 'proper' language without understanding how powerful Scratch can actually be. 
+We spent the first 2 terms building a selection of Scratch projects, which I chose from the available list based on what I thought would be interesting and what would introduce new programming skills at the right pace. I'd like to talk about Scratch more in a later post as I think it's underrated as a teaching tool, and people are way too keen to move on to a 'proper' language without understanding how powerful Scratch can actually be. 
 
 As a basic intro though, it lets you drag and drop blocks to create programs, mainly triggered by events, such as key presses, collisions, messsages, etc.
 
-https://scratch.mit.edu/projects/63957956/#editor
-
+Here's a picture of the 'Boat Race' game. One of the first few projects we tackled:
 <p align="left">
 	<img  src="{{site.baseurl}}/img/Screen Shot 2017-10-17 at 3.01.09 pm.png" />
 </p>
+
 You can see the instructions that the students follow here, and test the game:
 https://codeclubprojects.org/en-GB/scratch/boat-race/
 
 and you can see the code behind it here:
 https://scratch.mit.edu/projects/63957956/#editor
 
-Here's a simple snippet of code from the game to explain how it works:
+Here's a simple snippet of code from the game (attached to the boat sprite) to explain how it works:
 
 <p align="left">
 	<img src="{{site.baseurl}}/img/Screen Shot 2017-10-17 at 3.04.29 pm.png"/>
 </p>
 
-This code is on the boat sprite and works like this:
 - When the 'game start (green flag)' event happens do this:
 	- Change the boat 'costume' to 'normal' (i.e not the crashed boat)
     - Point it to 0 degrees (up)
