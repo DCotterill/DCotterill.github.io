@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: {}
+date: 2017-10-17T00:00:00.000Z
 categories: published
 comments: true
 permalink: /posts/starting-a-code-club/
