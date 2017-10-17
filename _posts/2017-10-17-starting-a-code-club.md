@@ -27,10 +27,7 @@ As a basic intro though, it lets you drag and drop blocks to create programs, ma
 
 https://scratch.mit.edu/projects/63957956/#editor
 
-<p>
-<img src="{{site.baseurl}}/img/Screen Shot 2017-10-17 at 3.01.09 pm.png" width="500px" align="left"/>
-</p>
-
+<img align="left" src="{{site.baseurl}}/img/Screen Shot 2017-10-17 at 3.01.09 pm.png" />
 
 You can see the instructions that the students follow here, and test the game:
 https://codeclubprojects.org/en-GB/scratch/boat-race/
@@ -40,9 +37,7 @@ https://scratch.mit.edu/projects/63957956/#editor
 
 Here's a simple snippet of code from the game to explain how it works:
 
-<p>
-<img src="{{site.baseurl}}/img/Screen Shot 2017-10-17 at 3.04.29 pm.png" width="300px" align="left"/>
-</p>
+<img align="left" src="{{site.baseurl}}/img/Screen Shot 2017-10-17 at 3.04.29 pm.png" width="300px"/>
 
 This code is on the boat sprite and works like this:
 - When the 'game start (green flag)' event happens do this:
