@@ -27,9 +27,7 @@ As a basic intro though, it lets you drag and drop blocks to create programs, ma
 
 https://scratch.mit.edu/projects/63957956/#editor
 
-<div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
 ![Screen Shot 2017-10-17 at 3.01.09 pm.png]({{site.baseurl}}/_posts/Screen Shot 2017-10-17 at 3.01.09 pm.png)
-</div>
 
 You can see the instructions that the students follow here, and test the game:
 https://codeclubprojects.org/en-GB/scratch/boat-race/
