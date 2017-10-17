@@ -6,7 +6,7 @@ categories: published
 comments: true
 permalink: /posts/starting-a-code-club/
 ---
-## Starting a Code Club
+
 
 One of the goals I had when finished up at work was to start a Code Club at my kids' school. It took me a little longer than I'd hoped to get started, but now we're into our 3rd Term. Everyone I talk to about it finds it an interesting topic, especially people with kids, so it's about time I wrote a little about it.
 
