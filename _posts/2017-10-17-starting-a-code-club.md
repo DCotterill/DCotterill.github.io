@@ -61,7 +61,7 @@ I've had a lot of feedback from the parents and the kids themselves about how mu
 
 Here's a proud picture of my son freestyling his new skills building his own Minecraft game, complete with obligatory developer headphones
 <p align="left">
-	<img src="{{site.baseurl}}/img/IMG_4968 2.jpg"/>
+	<img src="{{site.baseurl}}/img/IMG_4968 2.jpg" width="500px"/>
 </p>
 
 Hopefully that's given you a little insight into a Code Club, and maybe a little motivation to get involved or set one up yourself! It's *much* easier than you think, and I would be happy to help guide people through the first few steps, or answer any questions. Just let me know!
