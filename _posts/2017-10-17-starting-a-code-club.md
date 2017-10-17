@@ -13,11 +13,11 @@ One of the goals I had when finished up at work was to start a Code Club at my k
 I've learned a lot from the experience so far and I have a series of posts to write on the topic, but most people I speak to, even developers, have still not heard of Code Clubs, so I'll start with a basic intro.
 
 So.. What is a Code Club?
-[Code Club Australia](https://codeclubau.org/) is a registered charity, which originally started in the UK, but was brought to Australia later on. They help teachers and volunteers setup clubs for kids, in schools, libraries, or anywhere that is suitable, aimed at teaching Primary school students the basics of programming. 
+[Code Club Australia](https://codeclubau.org/) is a registered charity, which originally started in the UK, but was brought to Australia later on. They help teachers and volunteers setup clubs for kids, in schools, libraries, or anywhere that's suitable, aimed at teaching Primary school students the basics of programming. 
 
-The most important thing they provide are the [project materials for teaching](https://codeclubprojects.org/en-GB/):. These start with [Scratch](https://scratch.mit.edu/) projects, such as animations and games, but they also have Python, HTML/CSS, SonicPi, Raspberry Pi SenseHat projects, and more and more being added all the time.
+The most important thing they provide are the [project materials for teaching](https://codeclubprojects.org/en-GB/). These start with [Scratch](https://scratch.mit.edu/) projects, such as animations and games, but they also have Python, HTML/CSS, SonicPi, Raspberry Pi SenseHat projects, and more and more being added all the time.
 
-The materials are provided for fee, with the condition that there is no charge for attending the Code Club; they should remain free for the students.
+The materials are provided for fee, with the condition that there is no charge for attending the Code Club; they should remain free for the students. This is a fantastic idea that helps make sure it's kept open to everyone, not just the parents who can afford extra curricular activities.
 
 Our club runs with around ~30 kids from Year 3 and 4, but we were overwhelmed with the interest and had to put quite a lot on the wait list, who will hopefully be able to join a second class next year. With hindsight, this was a good decision as we have 2 teachers helping out with myself, and a 10-1 student-adult ratio is about as high as you can get to provide the attention they need without getting distracted. We also have a roughly 50/50 boy/girl mix, which I'm really happy with and am hoping to actively keep the girls engaged as they get a little older.
 
