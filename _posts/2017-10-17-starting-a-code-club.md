@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2017-10-07T00:00:00.000Z
+date: 2017-10-17T00:00:00.000Z
 categories: published
 comments: true
 permalink: /posts/starting-a-code-club/
@@ -27,7 +27,9 @@ As a basic intro though, it lets you drag and drop blocks to create programs, ma
 
 https://scratch.mit.edu/projects/63957956/#editor
 
-![Screen Shot 2017-10-17 at 3.01.09 pm.png]({{site.baseurl}}/_posts/Screen Shot 2017-10-17 at 3.01.09 pm.png)
+<div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
+<img src="{{site.baseurl}}/img/Screen Shot 2017-10-17 at 3.01.09 pm.png" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>
+
 
 You can see the instructions that the students follow here, and test the game:
 https://codeclubprojects.org/en-GB/scratch/boat-race/
@@ -36,7 +38,9 @@ and you can see the code behind it here:
 https://scratch.mit.edu/projects/63957956/#editor
 
 Here's a simple snippet of code from the game to explain how it works:
-![Screen Shot 2017-10-17 at 3.04.29 pm.png]({{site.baseurl}}/_posts/Screen Shot 2017-10-17 at 3.04.29 pm.png)
+
+<div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
+<img src="{{site.baseurl}}/img/Screen Shot 2017-10-17 at 3.04.29 pm.png" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>
 
 This code is on the boat sprite and works like this:
 - When the 'game start (green flag)' event happens do this:
