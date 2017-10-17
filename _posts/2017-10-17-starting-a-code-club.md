@@ -74,8 +74,4 @@ I wanted to keep this short, but there's a lot more detail I'm keen to write abo
 
 
 
-<p>
-  
-<p/>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
