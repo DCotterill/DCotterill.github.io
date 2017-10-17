@@ -27,7 +27,7 @@ As a basic intro though, it lets you drag and drop blocks to create programs, ma
 
 https://scratch.mit.edu/projects/63957956/#editor
 
-<div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
+<div style="width:500px; align:left;">
 <img src="{{site.baseurl}}/img/Screen Shot 2017-10-17 at 3.01.09 pm.png" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>
 
 
@@ -39,7 +39,7 @@ https://scratch.mit.edu/projects/63957956/#editor
 
 Here's a simple snippet of code from the game to explain how it works:
 
-<div style="height:150px;  width:150px; overflow:hidden; align:left; float:left">
+<div style="width:500px; align:left;">
 <img src="{{site.baseurl}}/img/Screen Shot 2017-10-17 at 3.04.29 pm.png" width="150px" align="left" style="PADDING-RIGHT: 15px;"/></div>
 
 This code is on the boat sprite and works like this:
