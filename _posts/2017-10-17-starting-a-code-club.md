@@ -59,7 +59,7 @@ From the first few weeks of being crazily busy with a queue of hands always up a
 
 I've had a lot of feedback from the parents and the kids themselves about how much they enjoy it, which is really rewarding. You can see it in their engagement, and a few parents told me that Code Club morning is the only day they don't have to convince them to get ready and go to school.
 
-Here's a proud picture of my son freestyling his new skills building his own Minecraft game, complete with obligatory developer headphones
+Here's a proud picture of my son freestyling his new found skills building his own Minecraft game, complete with obligatory developer headphones
 <p align="left">
 	<img src="{{site.baseurl}}/img/IMG_4968 2.jpg" width="500px"/>
 </p>
@@ -74,6 +74,8 @@ I wanted to keep this short, but there's a lot more detail I'm keen to write abo
 
 
 
+<p>
+  
 <p/>
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
