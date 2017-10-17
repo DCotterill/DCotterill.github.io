@@ -59,6 +59,9 @@ From the first few weeks of being crazily busy with a queue of hands always up a
 
 I've had a lot of feedback from the parents and the kids themselves about how much they enjoy it, which is really rewarding. You can see it in their engagement, and a few parents told me that Code Club morning is the only day they don't have to convince them to get ready and go to school.
 
+![IMG_4968 2.jpg]({{site.baseurl}}/_posts/IMG_4968 2.jpg)
+
+
 Hopefully that's given you a little insight into a Code Club, and maybe a little motivation to get involved or set one up yourself! It's *much* easier than you think, and I would be happy to help guide people through the first few steps, or answer any questions. Just let me know!
 
 I wanted to keep this short, but there's a lot more detail I'm keen to write about on these topics, so more to come:
