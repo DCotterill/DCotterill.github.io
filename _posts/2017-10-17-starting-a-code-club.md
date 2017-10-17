@@ -38,7 +38,9 @@ https://scratch.mit.edu/projects/63957956/#editor
 
 Here's a simple snippet of code from the game to explain how it works:
 
-<img align="left" src="{{site.baseurl}}/img/Screen Shot 2017-10-17 at 3.04.29 pm.png"/>
+<p align="left">
+	<img src="{{site.baseurl}}/img/Screen Shot 2017-10-17 at 3.04.29 pm.png"/>
+</p>
 
 This code is on the boat sprite and works like this:
 - When the 'game start (green flag)' event happens do this:
