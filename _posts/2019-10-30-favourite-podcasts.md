@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## My Favourite Podcasts
 
@@ -19,6 +19,3 @@ Some of my favs you could start with:
 [How a Morning Routine, Human Touch, and Nourishing Relationships Can Radically Lower Your Stress with Dr. Rangan Chatterjee](https://drhyman.com/blog/2019/10/10/bb-ep75/)
 
 [E70: A Step-by-Step Approach to Personalizing Your Diet with Chris Kresser](https://drhyman.com/blog/2019/09/05/bb-ep70/)
-
-
-
