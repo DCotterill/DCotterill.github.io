@@ -1,5 +1,10 @@
 ---
 published: true
+layout: post
+date: 2019-10-30T00:00:00.000Z
+categories: published
+comments: true
+permalink: /posts/favourite-podcasts/
 ---
 ## My Favourite Podcasts
 
