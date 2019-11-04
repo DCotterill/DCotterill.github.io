@@ -14,14 +14,21 @@ The stuff I listen to often provides advice, whether it's technical, health, fin
 
 I thought I'd compile this list to make that sharing a little easier:
 
-[Mad Fientist - Financial Indpendence Podcast](https://www.madfientist.com/podcast)
+[Mad Fientist - Financial Independence Podcast](https://www.madfientist.com/podcast)
+
 One of my favourites on the topic of FIRE (Financial Indpendence Retire Early). Brandon (the host) is a fantastic inverviewer, with a very humble approach to the topic, and he only brings out an episode when there's really something good to say, or someone great to interview. 
 
 I've listened to them all, but a couple that stand out to listen to if you want to get hooked are:
 
-[JLCollins - The Simple Path to Wealth] (https://www.madfientist.com/jl-collins-interview/)
+[JLCollins - The Simple Path to Wealth](https://www.madfientist.com/jl-collins-interview/)
 
-[PopUp Business School – The Right Way to Start a Business] (https://www.madfientist.com/popup-business-school-interview/)
+[PopUp Business School – The Right Way to Start a Business](https://www.madfientist.com/popup-business-school-interview/)
+
+[Planet Money from NPR](https://www.npr.org/podcasts/510289/planet-money)
+
+Mainly focussed on the US economy, but a few global aspects in there too. It's generally only 15 - 20 mins per episode, so they are nice bite size chunks of economic goodness, if that's your thing.
+
+I've listened to this for years, and have a hit rate of about 80% 
 
 [Broken Brain with Dhru Purohit](https://drhyman.com/broken-brain-podcasts/)
 
